@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ocaJ6OYiZLS9LI6XYLoAxrgUw93NayoWcY+N6yEWZ1DkHV3Oe70we6NAZrwxBUoy7wDN4znk1Sx+iZKfCCCFNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Iulia\\Desktop\\PPD-exam\\Threads\\Task- product of 2 big numbers\\Task- product of 2 big numbers\\Task- product of 2 big numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Iulia\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

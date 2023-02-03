@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zqm1hTbJgbm/6co8hJpbwPVgH66AGxSXkuxyBT8Ud93a+VEyCu7GDhx8JYuwAQBCIkdA31vK63IlNqs17GPFew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Iulia\\Desktop\\PPD-exam\\Threads\\Thread-product 2 matrices\\Thread-product 2 matrices\\Thread-product 2 matrices.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Iulia\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

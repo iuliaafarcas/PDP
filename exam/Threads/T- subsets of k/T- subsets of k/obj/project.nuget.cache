@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JCRk0aA+bxq20zTeDvwgptNaSHoso12mu2EPxkAwigBT+BoXUIQfmoda+4w/TUu510H97/5DVlgXl6sc6jnFmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Iulia\\Desktop\\PPD-exam\\Threads\\T- subsets of k\\T- subsets of k\\T- subsets of k.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Iulia\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

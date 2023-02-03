@@ -1,0 +1,16 @@
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-k permutation with condition\MPI-k permutation with condition\bin\Debug\netcoreapp3.1\MPI-k permutation with condition.exe
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-k permutation with condition\MPI-k permutation with condition\bin\Debug\netcoreapp3.1\MPI-k permutation with condition.deps.json
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-k permutation with condition\MPI-k permutation with condition\bin\Debug\netcoreapp3.1\MPI-k permutation with condition.runtimeconfig.json
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-k permutation with condition\MPI-k permutation with condition\bin\Debug\netcoreapp3.1\MPI-k permutation with condition.runtimeconfig.dev.json
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-k permutation with condition\MPI-k permutation with condition\bin\Debug\netcoreapp3.1\MPI-k permutation with condition.dll
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-k permutation with condition\MPI-k permutation with condition\bin\Debug\netcoreapp3.1\MPI-k permutation with condition.pdb
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-k permutation with condition\MPI-k permutation with condition\bin\Debug\netcoreapp3.1\MPI.dll
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-k permutation with condition\MPI-k permutation with condition\obj\Debug\netcoreapp3.1\MPI-k permutation with condition.csproj.AssemblyReference.cache
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-k permutation with condition\MPI-k permutation with condition\obj\Debug\netcoreapp3.1\MPI-k permutation with condition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-k permutation with condition\MPI-k permutation with condition\obj\Debug\netcoreapp3.1\MPI-k permutation with condition.AssemblyInfoInputs.cache
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-k permutation with condition\MPI-k permutation with condition\obj\Debug\netcoreapp3.1\MPI-k permutation with condition.AssemblyInfo.cs
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-k permutation with condition\MPI-k permutation with condition\obj\Debug\netcoreapp3.1\MPI-k permutation with condition.csproj.CoreCompileInputs.cache
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-k permutation with condition\MPI-k permutation with condition\obj\Debug\netcoreapp3.1\MPI-k permutation with condition.csproj.CopyComplete
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-k permutation with condition\MPI-k permutation with condition\obj\Debug\netcoreapp3.1\MPI-k permutation with condition.dll
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-k permutation with condition\MPI-k permutation with condition\obj\Debug\netcoreapp3.1\MPI-k permutation with condition.pdb
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-k permutation with condition\MPI-k permutation with condition\obj\Debug\netcoreapp3.1\MPI-k permutation with condition.genruntimeconfig.cache

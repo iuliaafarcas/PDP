@@ -1,0 +1,13 @@
+C:\Users\Iulia\Desktop\PPD-exam\T- subsets of k\T- subsets of k\bin\Debug\netcoreapp3.1\T- subsets of k.exe
+C:\Users\Iulia\Desktop\PPD-exam\T- subsets of k\T- subsets of k\bin\Debug\netcoreapp3.1\T- subsets of k.deps.json
+C:\Users\Iulia\Desktop\PPD-exam\T- subsets of k\T- subsets of k\bin\Debug\netcoreapp3.1\T- subsets of k.runtimeconfig.json
+C:\Users\Iulia\Desktop\PPD-exam\T- subsets of k\T- subsets of k\bin\Debug\netcoreapp3.1\T- subsets of k.runtimeconfig.dev.json
+C:\Users\Iulia\Desktop\PPD-exam\T- subsets of k\T- subsets of k\bin\Debug\netcoreapp3.1\T- subsets of k.dll
+C:\Users\Iulia\Desktop\PPD-exam\T- subsets of k\T- subsets of k\bin\Debug\netcoreapp3.1\T- subsets of k.pdb
+C:\Users\Iulia\Desktop\PPD-exam\T- subsets of k\T- subsets of k\obj\Debug\netcoreapp3.1\T- subsets of k.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iulia\Desktop\PPD-exam\T- subsets of k\T- subsets of k\obj\Debug\netcoreapp3.1\T- subsets of k.AssemblyInfoInputs.cache
+C:\Users\Iulia\Desktop\PPD-exam\T- subsets of k\T- subsets of k\obj\Debug\netcoreapp3.1\T- subsets of k.AssemblyInfo.cs
+C:\Users\Iulia\Desktop\PPD-exam\T- subsets of k\T- subsets of k\obj\Debug\netcoreapp3.1\T- subsets of k.csproj.CoreCompileInputs.cache
+C:\Users\Iulia\Desktop\PPD-exam\T- subsets of k\T- subsets of k\obj\Debug\netcoreapp3.1\T- subsets of k.dll
+C:\Users\Iulia\Desktop\PPD-exam\T- subsets of k\T- subsets of k\obj\Debug\netcoreapp3.1\T- subsets of k.pdb
+C:\Users\Iulia\Desktop\PPD-exam\T- subsets of k\T- subsets of k\obj\Debug\netcoreapp3.1\T- subsets of k.genruntimeconfig.cache

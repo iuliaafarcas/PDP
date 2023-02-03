@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Task-product of 2 matrices/1.0.0": {
+        "runtime": {
+          "Task-product of 2 matrices.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task-product of 2 matrices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

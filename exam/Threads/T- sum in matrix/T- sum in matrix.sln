@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T- sum in matrix", "T- sum in matrix\T- sum in matrix.csproj", "{19BA976D-720B-4437-9092-1C4357EF1550}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19BA976D-720B-4437-9092-1C4357EF1550}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19BA976D-720B-4437-9092-1C4357EF1550}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19BA976D-720B-4437-9092-1C4357EF1550}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19BA976D-720B-4437-9092-1C4357EF1550}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AAD63C6-BDE5-4B84-83B5-598D6BFDDC71}
+	EndGlobalSection
+EndGlobal

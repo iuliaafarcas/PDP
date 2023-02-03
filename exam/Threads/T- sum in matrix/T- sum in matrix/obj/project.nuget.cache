@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3/bZKKiCjxWE1eruvUc/tUcBPL7p/ZNfW9BNV7iWiGGCYhmENSiyssh5d+lN3CiYqNjNqgbp4kBx51zpECO+3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Iulia\\Desktop\\PPD-exam\\Threads\\T- sum in matrix\\T- sum in matrix\\T- sum in matrix.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Iulia\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

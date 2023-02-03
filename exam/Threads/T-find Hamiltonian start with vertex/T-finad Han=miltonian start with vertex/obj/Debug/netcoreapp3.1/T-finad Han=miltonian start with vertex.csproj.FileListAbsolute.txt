@@ -1,0 +1,14 @@
+C:\Users\Iulia\Desktop\PPD-exam\T-finad Han=miltonian start with vertex\T-finad Han=miltonian start with vertex\bin\Debug\netcoreapp3.1\T-finad Han=miltonian start with vertex.exe
+C:\Users\Iulia\Desktop\PPD-exam\T-finad Han=miltonian start with vertex\T-finad Han=miltonian start with vertex\bin\Debug\netcoreapp3.1\T-finad Han=miltonian start with vertex.deps.json
+C:\Users\Iulia\Desktop\PPD-exam\T-finad Han=miltonian start with vertex\T-finad Han=miltonian start with vertex\bin\Debug\netcoreapp3.1\T-finad Han=miltonian start with vertex.runtimeconfig.json
+C:\Users\Iulia\Desktop\PPD-exam\T-finad Han=miltonian start with vertex\T-finad Han=miltonian start with vertex\bin\Debug\netcoreapp3.1\T-finad Han=miltonian start with vertex.runtimeconfig.dev.json
+C:\Users\Iulia\Desktop\PPD-exam\T-finad Han=miltonian start with vertex\T-finad Han=miltonian start with vertex\bin\Debug\netcoreapp3.1\T-finad Han=miltonian start with vertex.dll
+C:\Users\Iulia\Desktop\PPD-exam\T-finad Han=miltonian start with vertex\T-finad Han=miltonian start with vertex\bin\Debug\netcoreapp3.1\T-finad Han=miltonian start with vertex.pdb
+C:\Users\Iulia\Desktop\PPD-exam\T-finad Han=miltonian start with vertex\T-finad Han=miltonian start with vertex\obj\Debug\netcoreapp3.1\T-finad Han=miltonian start with vertex.csproj.AssemblyReference.cache
+C:\Users\Iulia\Desktop\PPD-exam\T-finad Han=miltonian start with vertex\T-finad Han=miltonian start with vertex\obj\Debug\netcoreapp3.1\T-finad Han=miltonian start with vertex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iulia\Desktop\PPD-exam\T-finad Han=miltonian start with vertex\T-finad Han=miltonian start with vertex\obj\Debug\netcoreapp3.1\T-finad Han=miltonian start with vertex.AssemblyInfoInputs.cache
+C:\Users\Iulia\Desktop\PPD-exam\T-finad Han=miltonian start with vertex\T-finad Han=miltonian start with vertex\obj\Debug\netcoreapp3.1\T-finad Han=miltonian start with vertex.AssemblyInfo.cs
+C:\Users\Iulia\Desktop\PPD-exam\T-finad Han=miltonian start with vertex\T-finad Han=miltonian start with vertex\obj\Debug\netcoreapp3.1\T-finad Han=miltonian start with vertex.csproj.CoreCompileInputs.cache
+C:\Users\Iulia\Desktop\PPD-exam\T-finad Han=miltonian start with vertex\T-finad Han=miltonian start with vertex\obj\Debug\netcoreapp3.1\T-finad Han=miltonian start with vertex.dll
+C:\Users\Iulia\Desktop\PPD-exam\T-finad Han=miltonian start with vertex\T-finad Han=miltonian start with vertex\obj\Debug\netcoreapp3.1\T-finad Han=miltonian start with vertex.pdb
+C:\Users\Iulia\Desktop\PPD-exam\T-finad Han=miltonian start with vertex\T-finad Han=miltonian start with vertex\obj\Debug\netcoreapp3.1\T-finad Han=miltonian start with vertex.genruntimeconfig.cache

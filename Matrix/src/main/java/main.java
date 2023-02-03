@@ -31,38 +31,38 @@ public class main {
         return list_;
     }
     public static void main(String[] args) throws InterruptedException {
-        int n =50;
+        int n =1000;
         Matrix leftMatrix = new Matrix(n, createMatrix(n));
         Matrix rightMatrix = new Matrix (n, createMatrix(n));
         Matrix resultMatrix = new Matrix(n, createEmptyMatrix(n));
 
-        Long startTime = System.nanoTime();
+        Long startTime = System.currentTimeMillis();
         Long threadCount = 8L;
         // with threads
-        List<Thread> threadList = new ArrayList<>();
-        for (Long i=0L; i <threadCount;i++){
- //           Thread computingThread = new Thread(new Thread1(leftMatrix,rightMatrix,resultMatrix,i,threadCount));
- //           Thread computingThread = new Thread(new Thread1(leftMatrix,rightMatrix,resultMatrix,i,threadCount));
-            Thread computingThread = new Thread(new Thread1(leftMatrix,rightMatrix,resultMatrix,i,threadCount));
-                threadList.add(computingThread);
-                computingThread.start();
-        }
-        for(Thread thread: threadList){
-            thread.join();
+//        List<Thread> threadList = new ArrayList<>();
+//        for (Long i=0L; i <threadCount;i++){
+// //           Thread computingThread = new Thread(new Thread1(leftMatrix,rightMatrix,resultMatrix,i,threadCount));
+// //           Thread computingThread = new Thread(new Thread1(leftMatrix,rightMatrix,resultMatrix,i,threadCount));
+//            Thread computingThread = new Thread(new Thread1(leftMatrix,rightMatrix,resultMatrix,i,threadCount));
+//                threadList.add(computingThread);
+//                computingThread.start();
+//        }
+//        for(Thread thread: threadList){
+//            thread.join();
+//        }
+
+        ExecutorService executorService= Executors.newFixedThreadPool(4);
+        for (Long i=0L; i< threadCount;i++){
+ //           Runnable worker = new Thread1(leftMatrix,rightMatrix,resultMatrix,i,threadCount);
+// Runnable worker = new Thread2(leftMatrix,rightMatrix,resultMatrix,i,threadCount);
+           Runnable worker = new Thread3(leftMatrix,rightMatrix,resultMatrix,i,threadCount);
+            executorService.execute(worker);
         }
 
-//        ExecutorService executorService= Executors.newFixedThreadPool(4);
-//        for (Long i=0L; i< threadCount;i++){
-//            Runnable worker = new Thread1(leftMatrix,rightMatrix,resultMatrix,i,threadCount);
-//// Runnable worker = new Thread2(leftMatrix,rightMatrix,resultMatrix,i,threadCount);
-////           Runnable worker = new Thread3(leftMatrix,rightMatrix,resultMatrix,i,threadCount);
-//            executorService.execute(worker);
-//        }
-//
-//        executorService.shutdown();
-//        executorService.awaitTermination(1000, TimeUnit.HOURS);
-        Long stopTime = System.nanoTime();
-        long timeTaken=(stopTime-startTime)/1000000;
+        executorService.shutdown();
+        executorService.awaitTermination(1, TimeUnit.MINUTES);
+        Long stopTime = System.currentTimeMillis();
+        long timeTaken=(stopTime-startTime);
         System.out.println("---");
         System.out.println("FINISHED");
         System.out.println("Time taken: "+ timeTaken);

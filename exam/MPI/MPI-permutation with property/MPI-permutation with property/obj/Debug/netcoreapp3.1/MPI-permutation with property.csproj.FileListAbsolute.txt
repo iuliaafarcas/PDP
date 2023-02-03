@@ -1,0 +1,16 @@
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-permutation with property\MPI-permutation with property\bin\Debug\netcoreapp3.1\MPI-permutation with property.exe
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-permutation with property\MPI-permutation with property\bin\Debug\netcoreapp3.1\MPI-permutation with property.deps.json
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-permutation with property\MPI-permutation with property\bin\Debug\netcoreapp3.1\MPI-permutation with property.runtimeconfig.json
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-permutation with property\MPI-permutation with property\bin\Debug\netcoreapp3.1\MPI-permutation with property.runtimeconfig.dev.json
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-permutation with property\MPI-permutation with property\bin\Debug\netcoreapp3.1\MPI-permutation with property.dll
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-permutation with property\MPI-permutation with property\bin\Debug\netcoreapp3.1\MPI-permutation with property.pdb
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-permutation with property\MPI-permutation with property\bin\Debug\netcoreapp3.1\MPI.dll
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-permutation with property\MPI-permutation with property\obj\Debug\netcoreapp3.1\MPI-permutation with property.csproj.AssemblyReference.cache
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-permutation with property\MPI-permutation with property\obj\Debug\netcoreapp3.1\MPI-permutation with property.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-permutation with property\MPI-permutation with property\obj\Debug\netcoreapp3.1\MPI-permutation with property.AssemblyInfoInputs.cache
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-permutation with property\MPI-permutation with property\obj\Debug\netcoreapp3.1\MPI-permutation with property.AssemblyInfo.cs
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-permutation with property\MPI-permutation with property\obj\Debug\netcoreapp3.1\MPI-permutation with property.csproj.CoreCompileInputs.cache
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-permutation with property\MPI-permutation with property\obj\Debug\netcoreapp3.1\MPI-permutation with property.csproj.CopyComplete
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-permutation with property\MPI-permutation with property\obj\Debug\netcoreapp3.1\MPI-permutation with property.dll
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-permutation with property\MPI-permutation with property\obj\Debug\netcoreapp3.1\MPI-permutation with property.pdb
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-permutation with property\MPI-permutation with property\obj\Debug\netcoreapp3.1\MPI-permutation with property.genruntimeconfig.cache

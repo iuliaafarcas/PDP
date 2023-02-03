@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FK4zEI1QAQPRHLA4QaVmcGENbY/JiSW4gtCwKyQeRVGmhAZZDH2R68UqLZI0xEiIK0wXGuUphu661bZlYTJvYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Iulia\\Desktop\\PPD-exam\\Threads\\T-numere prime\\T-numere prime\\T-numere prime.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Iulia\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

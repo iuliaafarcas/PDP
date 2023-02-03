@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NUhAhUNDdrzRXp3N5PblIp4MoIDULxnNja5TbqDd8SE+7TL3HTcNalzs8NSstflTLrFhUrP9v1Nq0O5N2YAsyg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Iulia\\Desktop\\PPD-exam\\Threads\\T- number is div with a prime number\\T- number is div with a prime number\\T- number is div with a prime number.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Iulia\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

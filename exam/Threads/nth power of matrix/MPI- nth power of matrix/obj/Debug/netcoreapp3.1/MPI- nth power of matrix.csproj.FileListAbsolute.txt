@@ -1,0 +1,14 @@
+C:\Users\Iulia\source\repos\MPI- nth power of matrix\MPI- nth power of matrix\bin\Debug\netcoreapp3.1\MPI- nth power of matrix.exe
+C:\Users\Iulia\source\repos\MPI- nth power of matrix\MPI- nth power of matrix\bin\Debug\netcoreapp3.1\MPI- nth power of matrix.deps.json
+C:\Users\Iulia\source\repos\MPI- nth power of matrix\MPI- nth power of matrix\bin\Debug\netcoreapp3.1\MPI- nth power of matrix.runtimeconfig.json
+C:\Users\Iulia\source\repos\MPI- nth power of matrix\MPI- nth power of matrix\bin\Debug\netcoreapp3.1\MPI- nth power of matrix.runtimeconfig.dev.json
+C:\Users\Iulia\source\repos\MPI- nth power of matrix\MPI- nth power of matrix\bin\Debug\netcoreapp3.1\MPI- nth power of matrix.dll
+C:\Users\Iulia\source\repos\MPI- nth power of matrix\MPI- nth power of matrix\bin\Debug\netcoreapp3.1\MPI- nth power of matrix.pdb
+C:\Users\Iulia\source\repos\MPI- nth power of matrix\MPI- nth power of matrix\obj\Debug\netcoreapp3.1\MPI- nth power of matrix.csproj.AssemblyReference.cache
+C:\Users\Iulia\source\repos\MPI- nth power of matrix\MPI- nth power of matrix\obj\Debug\netcoreapp3.1\MPI- nth power of matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iulia\source\repos\MPI- nth power of matrix\MPI- nth power of matrix\obj\Debug\netcoreapp3.1\MPI- nth power of matrix.AssemblyInfoInputs.cache
+C:\Users\Iulia\source\repos\MPI- nth power of matrix\MPI- nth power of matrix\obj\Debug\netcoreapp3.1\MPI- nth power of matrix.AssemblyInfo.cs
+C:\Users\Iulia\source\repos\MPI- nth power of matrix\MPI- nth power of matrix\obj\Debug\netcoreapp3.1\MPI- nth power of matrix.csproj.CoreCompileInputs.cache
+C:\Users\Iulia\source\repos\MPI- nth power of matrix\MPI- nth power of matrix\obj\Debug\netcoreapp3.1\MPI- nth power of matrix.dll
+C:\Users\Iulia\source\repos\MPI- nth power of matrix\MPI- nth power of matrix\obj\Debug\netcoreapp3.1\MPI- nth power of matrix.pdb
+C:\Users\Iulia\source\repos\MPI- nth power of matrix\MPI- nth power of matrix\obj\Debug\netcoreapp3.1\MPI- nth power of matrix.genruntimeconfig.cache

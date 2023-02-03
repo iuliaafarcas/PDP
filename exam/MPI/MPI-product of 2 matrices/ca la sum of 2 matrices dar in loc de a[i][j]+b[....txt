@@ -1,0 +1,7 @@
+Integer computeSingleElement(List<List<Integer>> a, List<List<Integer>> b, int i, int j) {
+        int sum = 0;
+        for (int k = 0; k < b.size(); ++k) {
+            sum += a.get(i).get(k) * b.get(k).get(j);
+        }
+        return sum;
+    }

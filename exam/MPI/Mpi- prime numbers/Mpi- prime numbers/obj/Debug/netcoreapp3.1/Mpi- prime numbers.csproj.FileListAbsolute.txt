@@ -1,0 +1,16 @@
+C:\Users\Iulia\Desktop\PPD-exam\MPI\Mpi- prime numbers\Mpi- prime numbers\bin\Debug\netcoreapp3.1\Mpi- prime numbers.exe
+C:\Users\Iulia\Desktop\PPD-exam\MPI\Mpi- prime numbers\Mpi- prime numbers\bin\Debug\netcoreapp3.1\Mpi- prime numbers.deps.json
+C:\Users\Iulia\Desktop\PPD-exam\MPI\Mpi- prime numbers\Mpi- prime numbers\bin\Debug\netcoreapp3.1\Mpi- prime numbers.runtimeconfig.json
+C:\Users\Iulia\Desktop\PPD-exam\MPI\Mpi- prime numbers\Mpi- prime numbers\bin\Debug\netcoreapp3.1\Mpi- prime numbers.runtimeconfig.dev.json
+C:\Users\Iulia\Desktop\PPD-exam\MPI\Mpi- prime numbers\Mpi- prime numbers\bin\Debug\netcoreapp3.1\Mpi- prime numbers.dll
+C:\Users\Iulia\Desktop\PPD-exam\MPI\Mpi- prime numbers\Mpi- prime numbers\bin\Debug\netcoreapp3.1\Mpi- prime numbers.pdb
+C:\Users\Iulia\Desktop\PPD-exam\MPI\Mpi- prime numbers\Mpi- prime numbers\bin\Debug\netcoreapp3.1\MPI.dll
+C:\Users\Iulia\Desktop\PPD-exam\MPI\Mpi- prime numbers\Mpi- prime numbers\obj\Debug\netcoreapp3.1\Mpi- prime numbers.csproj.AssemblyReference.cache
+C:\Users\Iulia\Desktop\PPD-exam\MPI\Mpi- prime numbers\Mpi- prime numbers\obj\Debug\netcoreapp3.1\Mpi- prime numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iulia\Desktop\PPD-exam\MPI\Mpi- prime numbers\Mpi- prime numbers\obj\Debug\netcoreapp3.1\Mpi- prime numbers.AssemblyInfoInputs.cache
+C:\Users\Iulia\Desktop\PPD-exam\MPI\Mpi- prime numbers\Mpi- prime numbers\obj\Debug\netcoreapp3.1\Mpi- prime numbers.AssemblyInfo.cs
+C:\Users\Iulia\Desktop\PPD-exam\MPI\Mpi- prime numbers\Mpi- prime numbers\obj\Debug\netcoreapp3.1\Mpi- prime numbers.csproj.CoreCompileInputs.cache
+C:\Users\Iulia\Desktop\PPD-exam\MPI\Mpi- prime numbers\Mpi- prime numbers\obj\Debug\netcoreapp3.1\Mpi- prime numbers.csproj.CopyComplete
+C:\Users\Iulia\Desktop\PPD-exam\MPI\Mpi- prime numbers\Mpi- prime numbers\obj\Debug\netcoreapp3.1\Mpi- prime numbers.dll
+C:\Users\Iulia\Desktop\PPD-exam\MPI\Mpi- prime numbers\Mpi- prime numbers\obj\Debug\netcoreapp3.1\Mpi- prime numbers.pdb
+C:\Users\Iulia\Desktop\PPD-exam\MPI\Mpi- prime numbers\Mpi- prime numbers\obj\Debug\netcoreapp3.1\Mpi- prime numbers.genruntimeconfig.cache

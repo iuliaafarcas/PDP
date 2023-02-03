@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "in1OjTKeoqjS9g+rYjGM87U3EIYZwtK8jQ0b4E/RJmisltrxbACIkHD3xd7h+lRx57oVT1+0u4psFcc3wamrCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Iulia\\Desktop\\PPD-exam\\Threads\\T-permutari\\T-permutari\\T-permutari.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Iulia\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

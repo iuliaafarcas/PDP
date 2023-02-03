@@ -1,0 +1,14 @@
+C:\Users\Iulia\Desktop\PPD-exam\T- sum in matrix\T- sum in matrix\bin\Debug\netcoreapp3.1\T- sum in matrix.exe
+C:\Users\Iulia\Desktop\PPD-exam\T- sum in matrix\T- sum in matrix\bin\Debug\netcoreapp3.1\T- sum in matrix.deps.json
+C:\Users\Iulia\Desktop\PPD-exam\T- sum in matrix\T- sum in matrix\bin\Debug\netcoreapp3.1\T- sum in matrix.runtimeconfig.json
+C:\Users\Iulia\Desktop\PPD-exam\T- sum in matrix\T- sum in matrix\bin\Debug\netcoreapp3.1\T- sum in matrix.runtimeconfig.dev.json
+C:\Users\Iulia\Desktop\PPD-exam\T- sum in matrix\T- sum in matrix\bin\Debug\netcoreapp3.1\T- sum in matrix.dll
+C:\Users\Iulia\Desktop\PPD-exam\T- sum in matrix\T- sum in matrix\bin\Debug\netcoreapp3.1\T- sum in matrix.pdb
+C:\Users\Iulia\Desktop\PPD-exam\T- sum in matrix\T- sum in matrix\obj\Debug\netcoreapp3.1\T- sum in matrix.csproj.AssemblyReference.cache
+C:\Users\Iulia\Desktop\PPD-exam\T- sum in matrix\T- sum in matrix\obj\Debug\netcoreapp3.1\T- sum in matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iulia\Desktop\PPD-exam\T- sum in matrix\T- sum in matrix\obj\Debug\netcoreapp3.1\T- sum in matrix.AssemblyInfoInputs.cache
+C:\Users\Iulia\Desktop\PPD-exam\T- sum in matrix\T- sum in matrix\obj\Debug\netcoreapp3.1\T- sum in matrix.AssemblyInfo.cs
+C:\Users\Iulia\Desktop\PPD-exam\T- sum in matrix\T- sum in matrix\obj\Debug\netcoreapp3.1\T- sum in matrix.csproj.CoreCompileInputs.cache
+C:\Users\Iulia\Desktop\PPD-exam\T- sum in matrix\T- sum in matrix\obj\Debug\netcoreapp3.1\T- sum in matrix.dll
+C:\Users\Iulia\Desktop\PPD-exam\T- sum in matrix\T- sum in matrix\obj\Debug\netcoreapp3.1\T- sum in matrix.pdb
+C:\Users\Iulia\Desktop\PPD-exam\T- sum in matrix\T- sum in matrix\obj\Debug\netcoreapp3.1\T- sum in matrix.genruntimeconfig.cache

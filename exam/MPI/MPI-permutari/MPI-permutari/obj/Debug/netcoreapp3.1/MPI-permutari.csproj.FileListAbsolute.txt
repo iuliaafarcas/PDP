@@ -1,0 +1,16 @@
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-permutari\MPI-permutari\bin\Debug\netcoreapp3.1\MPI-permutari.exe
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-permutari\MPI-permutari\bin\Debug\netcoreapp3.1\MPI-permutari.deps.json
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-permutari\MPI-permutari\bin\Debug\netcoreapp3.1\MPI-permutari.runtimeconfig.json
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-permutari\MPI-permutari\bin\Debug\netcoreapp3.1\MPI-permutari.runtimeconfig.dev.json
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-permutari\MPI-permutari\bin\Debug\netcoreapp3.1\MPI-permutari.dll
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-permutari\MPI-permutari\bin\Debug\netcoreapp3.1\MPI-permutari.pdb
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-permutari\MPI-permutari\bin\Debug\netcoreapp3.1\MPI.dll
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-permutari\MPI-permutari\obj\Debug\netcoreapp3.1\MPI-permutari.csproj.AssemblyReference.cache
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-permutari\MPI-permutari\obj\Debug\netcoreapp3.1\MPI-permutari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-permutari\MPI-permutari\obj\Debug\netcoreapp3.1\MPI-permutari.AssemblyInfoInputs.cache
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-permutari\MPI-permutari\obj\Debug\netcoreapp3.1\MPI-permutari.AssemblyInfo.cs
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-permutari\MPI-permutari\obj\Debug\netcoreapp3.1\MPI-permutari.csproj.CoreCompileInputs.cache
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-permutari\MPI-permutari\obj\Debug\netcoreapp3.1\MPI-permutari.csproj.CopyComplete
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-permutari\MPI-permutari\obj\Debug\netcoreapp3.1\MPI-permutari.dll
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-permutari\MPI-permutari\obj\Debug\netcoreapp3.1\MPI-permutari.pdb
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-permutari\MPI-permutari\obj\Debug\netcoreapp3.1\MPI-permutari.genruntimeconfig.cache

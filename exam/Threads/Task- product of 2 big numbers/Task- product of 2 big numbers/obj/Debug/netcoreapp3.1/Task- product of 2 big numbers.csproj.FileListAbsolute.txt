@@ -1,0 +1,14 @@
+C:\Users\Iulia\Desktop\PPD-exam\Task- product of 2 big numbers\Task- product of 2 big numbers\bin\Debug\netcoreapp3.1\Task- product of 2 big numbers.exe
+C:\Users\Iulia\Desktop\PPD-exam\Task- product of 2 big numbers\Task- product of 2 big numbers\bin\Debug\netcoreapp3.1\Task- product of 2 big numbers.deps.json
+C:\Users\Iulia\Desktop\PPD-exam\Task- product of 2 big numbers\Task- product of 2 big numbers\bin\Debug\netcoreapp3.1\Task- product of 2 big numbers.runtimeconfig.json
+C:\Users\Iulia\Desktop\PPD-exam\Task- product of 2 big numbers\Task- product of 2 big numbers\bin\Debug\netcoreapp3.1\Task- product of 2 big numbers.runtimeconfig.dev.json
+C:\Users\Iulia\Desktop\PPD-exam\Task- product of 2 big numbers\Task- product of 2 big numbers\bin\Debug\netcoreapp3.1\Task- product of 2 big numbers.dll
+C:\Users\Iulia\Desktop\PPD-exam\Task- product of 2 big numbers\Task- product of 2 big numbers\bin\Debug\netcoreapp3.1\Task- product of 2 big numbers.pdb
+C:\Users\Iulia\Desktop\PPD-exam\Task- product of 2 big numbers\Task- product of 2 big numbers\obj\Debug\netcoreapp3.1\Task- product of 2 big numbers.csproj.AssemblyReference.cache
+C:\Users\Iulia\Desktop\PPD-exam\Task- product of 2 big numbers\Task- product of 2 big numbers\obj\Debug\netcoreapp3.1\Task- product of 2 big numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iulia\Desktop\PPD-exam\Task- product of 2 big numbers\Task- product of 2 big numbers\obj\Debug\netcoreapp3.1\Task- product of 2 big numbers.AssemblyInfoInputs.cache
+C:\Users\Iulia\Desktop\PPD-exam\Task- product of 2 big numbers\Task- product of 2 big numbers\obj\Debug\netcoreapp3.1\Task- product of 2 big numbers.AssemblyInfo.cs
+C:\Users\Iulia\Desktop\PPD-exam\Task- product of 2 big numbers\Task- product of 2 big numbers\obj\Debug\netcoreapp3.1\Task- product of 2 big numbers.csproj.CoreCompileInputs.cache
+C:\Users\Iulia\Desktop\PPD-exam\Task- product of 2 big numbers\Task- product of 2 big numbers\obj\Debug\netcoreapp3.1\Task- product of 2 big numbers.dll
+C:\Users\Iulia\Desktop\PPD-exam\Task- product of 2 big numbers\Task- product of 2 big numbers\obj\Debug\netcoreapp3.1\Task- product of 2 big numbers.pdb
+C:\Users\Iulia\Desktop\PPD-exam\Task- product of 2 big numbers\Task- product of 2 big numbers\obj\Debug\netcoreapp3.1\Task- product of 2 big numbers.genruntimeconfig.cache

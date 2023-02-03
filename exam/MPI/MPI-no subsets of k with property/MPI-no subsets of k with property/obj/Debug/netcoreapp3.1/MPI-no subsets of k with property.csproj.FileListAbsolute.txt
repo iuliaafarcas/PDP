@@ -1,0 +1,31 @@
+C:\Users\Iulia\source\repos\MPI-no subsets of k with property\MPI-no subsets of k with property\bin\Debug\netcoreapp3.1\MPI-no subsets of k with property.exe
+C:\Users\Iulia\source\repos\MPI-no subsets of k with property\MPI-no subsets of k with property\bin\Debug\netcoreapp3.1\MPI-no subsets of k with property.deps.json
+C:\Users\Iulia\source\repos\MPI-no subsets of k with property\MPI-no subsets of k with property\bin\Debug\netcoreapp3.1\MPI-no subsets of k with property.runtimeconfig.json
+C:\Users\Iulia\source\repos\MPI-no subsets of k with property\MPI-no subsets of k with property\bin\Debug\netcoreapp3.1\MPI-no subsets of k with property.runtimeconfig.dev.json
+C:\Users\Iulia\source\repos\MPI-no subsets of k with property\MPI-no subsets of k with property\bin\Debug\netcoreapp3.1\MPI-no subsets of k with property.dll
+C:\Users\Iulia\source\repos\MPI-no subsets of k with property\MPI-no subsets of k with property\bin\Debug\netcoreapp3.1\MPI-no subsets of k with property.pdb
+C:\Users\Iulia\source\repos\MPI-no subsets of k with property\MPI-no subsets of k with property\bin\Debug\netcoreapp3.1\MPI.dll
+C:\Users\Iulia\source\repos\MPI-no subsets of k with property\MPI-no subsets of k with property\obj\Debug\netcoreapp3.1\MPI-no subsets of k with property.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iulia\source\repos\MPI-no subsets of k with property\MPI-no subsets of k with property\obj\Debug\netcoreapp3.1\MPI-no subsets of k with property.AssemblyInfoInputs.cache
+C:\Users\Iulia\source\repos\MPI-no subsets of k with property\MPI-no subsets of k with property\obj\Debug\netcoreapp3.1\MPI-no subsets of k with property.AssemblyInfo.cs
+C:\Users\Iulia\source\repos\MPI-no subsets of k with property\MPI-no subsets of k with property\obj\Debug\netcoreapp3.1\MPI-no subsets of k with property.csproj.CoreCompileInputs.cache
+C:\Users\Iulia\source\repos\MPI-no subsets of k with property\MPI-no subsets of k with property\obj\Debug\netcoreapp3.1\MPI-no subsets of k with property.csproj.CopyComplete
+C:\Users\Iulia\source\repos\MPI-no subsets of k with property\MPI-no subsets of k with property\obj\Debug\netcoreapp3.1\MPI-no subsets of k with property.dll
+C:\Users\Iulia\source\repos\MPI-no subsets of k with property\MPI-no subsets of k with property\obj\Debug\netcoreapp3.1\MPI-no subsets of k with property.pdb
+C:\Users\Iulia\source\repos\MPI-no subsets of k with property\MPI-no subsets of k with property\obj\Debug\netcoreapp3.1\MPI-no subsets of k with property.genruntimeconfig.cache
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-no subsets of k with property\MPI-no subsets of k with property\bin\Debug\netcoreapp3.1\MPI-no subsets of k with property.exe
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-no subsets of k with property\MPI-no subsets of k with property\bin\Debug\netcoreapp3.1\MPI-no subsets of k with property.deps.json
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-no subsets of k with property\MPI-no subsets of k with property\bin\Debug\netcoreapp3.1\MPI-no subsets of k with property.runtimeconfig.json
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-no subsets of k with property\MPI-no subsets of k with property\bin\Debug\netcoreapp3.1\MPI-no subsets of k with property.runtimeconfig.dev.json
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-no subsets of k with property\MPI-no subsets of k with property\bin\Debug\netcoreapp3.1\MPI-no subsets of k with property.dll
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-no subsets of k with property\MPI-no subsets of k with property\bin\Debug\netcoreapp3.1\MPI-no subsets of k with property.pdb
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-no subsets of k with property\MPI-no subsets of k with property\bin\Debug\netcoreapp3.1\MPI.dll
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-no subsets of k with property\MPI-no subsets of k with property\obj\Debug\netcoreapp3.1\MPI-no subsets of k with property.csproj.AssemblyReference.cache
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-no subsets of k with property\MPI-no subsets of k with property\obj\Debug\netcoreapp3.1\MPI-no subsets of k with property.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-no subsets of k with property\MPI-no subsets of k with property\obj\Debug\netcoreapp3.1\MPI-no subsets of k with property.AssemblyInfoInputs.cache
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-no subsets of k with property\MPI-no subsets of k with property\obj\Debug\netcoreapp3.1\MPI-no subsets of k with property.AssemblyInfo.cs
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-no subsets of k with property\MPI-no subsets of k with property\obj\Debug\netcoreapp3.1\MPI-no subsets of k with property.csproj.CoreCompileInputs.cache
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-no subsets of k with property\MPI-no subsets of k with property\obj\Debug\netcoreapp3.1\MPI-no subsets of k with property.csproj.CopyComplete
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-no subsets of k with property\MPI-no subsets of k with property\obj\Debug\netcoreapp3.1\MPI-no subsets of k with property.dll
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-no subsets of k with property\MPI-no subsets of k with property\obj\Debug\netcoreapp3.1\MPI-no subsets of k with property.pdb
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-no subsets of k with property\MPI-no subsets of k with property\obj\Debug\netcoreapp3.1\MPI-no subsets of k with property.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-convultion\MPI-convultion\bin\Debug\netcoreapp3.1\MPI-convultion.exe
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-convultion\MPI-convultion\bin\Debug\netcoreapp3.1\MPI-convultion.deps.json
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-convultion\MPI-convultion\bin\Debug\netcoreapp3.1\MPI-convultion.runtimeconfig.json
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-convultion\MPI-convultion\bin\Debug\netcoreapp3.1\MPI-convultion.runtimeconfig.dev.json
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-convultion\MPI-convultion\bin\Debug\netcoreapp3.1\MPI-convultion.dll
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-convultion\MPI-convultion\bin\Debug\netcoreapp3.1\MPI-convultion.pdb
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-convultion\MPI-convultion\bin\Debug\netcoreapp3.1\MPI.dll
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-convultion\MPI-convultion\obj\Debug\netcoreapp3.1\MPI-convultion.csproj.AssemblyReference.cache
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-convultion\MPI-convultion\obj\Debug\netcoreapp3.1\MPI-convultion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-convultion\MPI-convultion\obj\Debug\netcoreapp3.1\MPI-convultion.AssemblyInfoInputs.cache
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-convultion\MPI-convultion\obj\Debug\netcoreapp3.1\MPI-convultion.AssemblyInfo.cs
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-convultion\MPI-convultion\obj\Debug\netcoreapp3.1\MPI-convultion.csproj.CoreCompileInputs.cache
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-convultion\MPI-convultion\obj\Debug\netcoreapp3.1\MPI-convultion.csproj.CopyComplete
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-convultion\MPI-convultion\obj\Debug\netcoreapp3.1\MPI-convultion.dll
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-convultion\MPI-convultion\obj\Debug\netcoreapp3.1\MPI-convultion.pdb
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-convultion\MPI-convultion\obj\Debug\netcoreapp3.1\MPI-convultion.genruntimeconfig.cache

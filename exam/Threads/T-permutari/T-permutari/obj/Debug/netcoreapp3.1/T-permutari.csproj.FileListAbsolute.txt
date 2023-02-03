@@ -1,0 +1,14 @@
+C:\Users\Iulia\Desktop\PPD-exam\T-permutari\T-permutari\bin\Debug\netcoreapp3.1\T-permutari.exe
+C:\Users\Iulia\Desktop\PPD-exam\T-permutari\T-permutari\bin\Debug\netcoreapp3.1\T-permutari.deps.json
+C:\Users\Iulia\Desktop\PPD-exam\T-permutari\T-permutari\bin\Debug\netcoreapp3.1\T-permutari.runtimeconfig.json
+C:\Users\Iulia\Desktop\PPD-exam\T-permutari\T-permutari\bin\Debug\netcoreapp3.1\T-permutari.runtimeconfig.dev.json
+C:\Users\Iulia\Desktop\PPD-exam\T-permutari\T-permutari\bin\Debug\netcoreapp3.1\T-permutari.dll
+C:\Users\Iulia\Desktop\PPD-exam\T-permutari\T-permutari\bin\Debug\netcoreapp3.1\T-permutari.pdb
+C:\Users\Iulia\Desktop\PPD-exam\T-permutari\T-permutari\obj\Debug\netcoreapp3.1\T-permutari.csproj.AssemblyReference.cache
+C:\Users\Iulia\Desktop\PPD-exam\T-permutari\T-permutari\obj\Debug\netcoreapp3.1\T-permutari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iulia\Desktop\PPD-exam\T-permutari\T-permutari\obj\Debug\netcoreapp3.1\T-permutari.AssemblyInfoInputs.cache
+C:\Users\Iulia\Desktop\PPD-exam\T-permutari\T-permutari\obj\Debug\netcoreapp3.1\T-permutari.AssemblyInfo.cs
+C:\Users\Iulia\Desktop\PPD-exam\T-permutari\T-permutari\obj\Debug\netcoreapp3.1\T-permutari.csproj.CoreCompileInputs.cache
+C:\Users\Iulia\Desktop\PPD-exam\T-permutari\T-permutari\obj\Debug\netcoreapp3.1\T-permutari.dll
+C:\Users\Iulia\Desktop\PPD-exam\T-permutari\T-permutari\obj\Debug\netcoreapp3.1\T-permutari.pdb
+C:\Users\Iulia\Desktop\PPD-exam\T-permutari\T-permutari\obj\Debug\netcoreapp3.1\T-permutari.genruntimeconfig.cache

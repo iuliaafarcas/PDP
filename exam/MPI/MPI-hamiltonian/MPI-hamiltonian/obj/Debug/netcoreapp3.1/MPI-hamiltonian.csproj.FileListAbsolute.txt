@@ -1,0 +1,16 @@
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-hamiltonian\MPI-hamiltonian\bin\Debug\netcoreapp3.1\MPI-hamiltonian.exe
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-hamiltonian\MPI-hamiltonian\bin\Debug\netcoreapp3.1\MPI-hamiltonian.deps.json
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-hamiltonian\MPI-hamiltonian\bin\Debug\netcoreapp3.1\MPI-hamiltonian.runtimeconfig.json
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-hamiltonian\MPI-hamiltonian\bin\Debug\netcoreapp3.1\MPI-hamiltonian.runtimeconfig.dev.json
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-hamiltonian\MPI-hamiltonian\bin\Debug\netcoreapp3.1\MPI-hamiltonian.dll
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-hamiltonian\MPI-hamiltonian\bin\Debug\netcoreapp3.1\MPI-hamiltonian.pdb
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-hamiltonian\MPI-hamiltonian\bin\Debug\netcoreapp3.1\MPI.dll
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-hamiltonian\MPI-hamiltonian\obj\Debug\netcoreapp3.1\MPI-hamiltonian.csproj.AssemblyReference.cache
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-hamiltonian\MPI-hamiltonian\obj\Debug\netcoreapp3.1\MPI-hamiltonian.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-hamiltonian\MPI-hamiltonian\obj\Debug\netcoreapp3.1\MPI-hamiltonian.AssemblyInfoInputs.cache
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-hamiltonian\MPI-hamiltonian\obj\Debug\netcoreapp3.1\MPI-hamiltonian.AssemblyInfo.cs
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-hamiltonian\MPI-hamiltonian\obj\Debug\netcoreapp3.1\MPI-hamiltonian.csproj.CoreCompileInputs.cache
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-hamiltonian\MPI-hamiltonian\obj\Debug\netcoreapp3.1\MPI-hamiltonian.csproj.CopyComplete
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-hamiltonian\MPI-hamiltonian\obj\Debug\netcoreapp3.1\MPI-hamiltonian.dll
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-hamiltonian\MPI-hamiltonian\obj\Debug\netcoreapp3.1\MPI-hamiltonian.pdb
+C:\Users\Iulia\Desktop\PPD-exam\MPI\MPI-hamiltonian\MPI-hamiltonian\obj\Debug\netcoreapp3.1\MPI-hamiltonian.genruntimeconfig.cache

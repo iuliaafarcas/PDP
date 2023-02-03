@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MPI-convultion", "MPI-convultion\MPI-convultion.csproj", "{2E48DD50-99AC-4F88-B76D-1EFFEDCF31F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E48DD50-99AC-4F88-B76D-1EFFEDCF31F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E48DD50-99AC-4F88-B76D-1EFFEDCF31F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E48DD50-99AC-4F88-B76D-1EFFEDCF31F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E48DD50-99AC-4F88-B76D-1EFFEDCF31F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCA7F4B8-BE52-45C8-A305-6012932E98F5}
+	EndGlobalSection
+EndGlobal

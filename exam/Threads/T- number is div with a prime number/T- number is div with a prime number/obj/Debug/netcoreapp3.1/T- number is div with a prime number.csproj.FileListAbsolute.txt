@@ -1,0 +1,14 @@
+C:\Users\Iulia\Desktop\PPD-exam\T- number is div with a prime number\T- number is div with a prime number\bin\Debug\netcoreapp3.1\T- number is div with a prime number.exe
+C:\Users\Iulia\Desktop\PPD-exam\T- number is div with a prime number\T- number is div with a prime number\bin\Debug\netcoreapp3.1\T- number is div with a prime number.deps.json
+C:\Users\Iulia\Desktop\PPD-exam\T- number is div with a prime number\T- number is div with a prime number\bin\Debug\netcoreapp3.1\T- number is div with a prime number.runtimeconfig.json
+C:\Users\Iulia\Desktop\PPD-exam\T- number is div with a prime number\T- number is div with a prime number\bin\Debug\netcoreapp3.1\T- number is div with a prime number.runtimeconfig.dev.json
+C:\Users\Iulia\Desktop\PPD-exam\T- number is div with a prime number\T- number is div with a prime number\bin\Debug\netcoreapp3.1\T- number is div with a prime number.dll
+C:\Users\Iulia\Desktop\PPD-exam\T- number is div with a prime number\T- number is div with a prime number\bin\Debug\netcoreapp3.1\T- number is div with a prime number.pdb
+C:\Users\Iulia\Desktop\PPD-exam\T- number is div with a prime number\T- number is div with a prime number\obj\Debug\netcoreapp3.1\T- number is div with a prime number.csproj.AssemblyReference.cache
+C:\Users\Iulia\Desktop\PPD-exam\T- number is div with a prime number\T- number is div with a prime number\obj\Debug\netcoreapp3.1\T- number is div with a prime number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iulia\Desktop\PPD-exam\T- number is div with a prime number\T- number is div with a prime number\obj\Debug\netcoreapp3.1\T- number is div with a prime number.AssemblyInfoInputs.cache
+C:\Users\Iulia\Desktop\PPD-exam\T- number is div with a prime number\T- number is div with a prime number\obj\Debug\netcoreapp3.1\T- number is div with a prime number.AssemblyInfo.cs
+C:\Users\Iulia\Desktop\PPD-exam\T- number is div with a prime number\T- number is div with a prime number\obj\Debug\netcoreapp3.1\T- number is div with a prime number.csproj.CoreCompileInputs.cache
+C:\Users\Iulia\Desktop\PPD-exam\T- number is div with a prime number\T- number is div with a prime number\obj\Debug\netcoreapp3.1\T- number is div with a prime number.dll
+C:\Users\Iulia\Desktop\PPD-exam\T- number is div with a prime number\T- number is div with a prime number\obj\Debug\netcoreapp3.1\T- number is div with a prime number.pdb
+C:\Users\Iulia\Desktop\PPD-exam\T- number is div with a prime number\T- number is div with a prime number\obj\Debug\netcoreapp3.1\T- number is div with a prime number.genruntimeconfig.cache
